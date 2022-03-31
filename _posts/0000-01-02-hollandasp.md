@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+"This Slide Slaps Like Will Smith"
 Use the left arrow to go back!
